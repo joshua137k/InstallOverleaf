@@ -2,8 +2,6 @@
 
 Este guia documenta a instalação do Overleaf Community Edition em um ambiente Homelab rodando OpenMediaVault (OMV), utilizando uma pasta partilhada em `/overleaf`.
 
-A instalação utiliza uma **imagem Docker personalizada** para incluir o TeXLive completo, suporte à língua portuguesa (hifenização, babel), normas ABNT/IEEE e fontes adicionais.
-
 ## 📋 Pré-requisitos
 
 *   **OpenMediaVault** instalado e configurado.
